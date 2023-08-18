@@ -1,4 +1,5 @@
 import { prisma } from '@/lib/prisma'
+import { setCookie } from 'nookies'
 import { NextApiRequest, NextApiResponse } from 'next'
 
 export default async function handler(
@@ -29,6 +30,11 @@ export default async function handler(
       name,
       username,
     },
+  })
+
+  setCookie({ res }, '@ignitecall:userId', user.id, {
+    maxAge: 60 * 60 * 24 * 7, // 7 dias
+    path: '/', // para qual rota vai ter acesso ao cookie.
   })
 
   return res.status(201).json(user)
