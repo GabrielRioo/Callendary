@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![image](https://github.com/GabrielRioo/RocketSeat_Ignite_Call/assets/61875527/3e7420d3-6af8-45e1-bdcb-97b772afb212)
+![image](https://github.com/GabrielRioo/RocketSeat_Ignite_Call/assets/61875527/e9ac652d-fc79-434e-9128-4569b814983f)
+![image](https://github.com/GabrielRioo/RocketSeat_Ignite_Call/assets/61875527/e8fea5c1-cf7b-4e38-8afc-41a0d7b05670)
+![image](https://github.com/GabrielRioo/RocketSeat_Ignite_Call/assets/61875527/67124edc-54b5-407e-9432-c70a83519772)
+![image](https://github.com/GabrielRioo/RocketSeat_Ignite_Call/assets/61875527/927beb16-6b64-4efd-a7ef-78abb5743a78)
+![image](https://github.com/GabrielRioo/RocketSeat_Ignite_Call/assets/61875527/75496062-1d98-45fe-897a-7db000a52a83)
+![image](https://github.com/GabrielRioo/RocketSeat_Ignite_Call/assets/61875527/658b7208-33ab-4cd9-b31d-68f662333881)
+![image](https://github.com/GabrielRioo/RocketSeat_Ignite_Call/assets/61875527/7b565936-d4b9-4c5b-ade5-a1580c7cec4d)
+
 ## Getting Started
 
 First, run the development server:
